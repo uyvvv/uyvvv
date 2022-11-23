@@ -18,3 +18,6 @@ An extremely customizable batch script designed to make your videos, images. aud
 * [Documentation](https://qualitymuncher.com/docs) (currently a work in progress)
 * [GitHub](https://github.com/uyvvv/qualitymuncher)
 * [Discord](https://discord.gg/hm) *Requires Windows 10/11 and FFmpeg.
+
+### Smoothie
+A python script that can apply motion-blur on your gameplay content with frame interpolation, artifact masking and frame blending. It is a cross-platform fork of blur rewritten in Python with a focus on ease of use and integration in your existing routine.
